@@ -6,7 +6,7 @@
 	"icon": "launch.jpg",
 	"repository": {"url": "https://github.com/Inso-13/vscode-ILauncher"},
 	"description": "Run Task like launching",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
@@ -14,7 +14,6 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:ilauncher.helloWorld"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
